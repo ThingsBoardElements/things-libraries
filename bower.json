@@ -1,6 +1,6 @@
 {
   "name": "things-libraries",
-  "version": "v2.2.2",
+  "version": "v2.2.3",
   "authors": ["Hatio Lab. <heartyoh@hatiolab.com>"],
   "description": "모든 Things Elements용 자바스크립트",
   "keywords": ["web-component", "polymer", "seed"],
